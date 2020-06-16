@@ -1,1 +1,2 @@
-# ds-lessons-yish
+# data science teaching materials
+
